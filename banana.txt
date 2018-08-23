@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ghgghg
 welcome bananas
+=======
+The first fruit ke banana
+>>>>>>> origin/fruit
+banana the third
